@@ -1,0 +1,17 @@
+{
+  "name": "node_1.1",
+  "version": "1.0.0",
+  "description": "testing reverse polish notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "au-rinko",
+  "license": "ISC",
+  "dependencies": {
+    "@au-rinko/node_1": "^0.0.0"
+  }
+}
